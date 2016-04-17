@@ -1,3 +1,3 @@
 # WordCount
 
-Test
+This project is an example of how to use AWS MapReduce in Python.
